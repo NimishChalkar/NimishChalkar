@@ -1,6 +1,6 @@
 ![Cybersecurity Banner](extrawide_3x1.png)
 
-# Hi, I'm Nimish 👋
+# Hi, I'm Nimish
 **Cybersecurity Analyst | AI Enthusiast | Network Security Practitioner**
 
 🔍 Passionate about securing systems, detecting threats, and automating defenses.  
@@ -18,10 +18,9 @@
 
 ---
 
-## 📂 Featured Projects
-- 🛡 **SOC Automation Script** – Python-based tool to parse and enrich security alerts  
-- 🔍 **Phishing Email Analyzer** – Extracts headers, checks against threat intel feeds  
-- 📊 **SIEM Lab Setup** – Step-by-step QRadar home lab configuration
+## 📜 Certificates
+- [**Certified in Cybersecurity (CC) – ISC²**](https://www.credly.com/badges/28ac9728-81bd-4d59-bca9-686b4160a73b/)
+- **CompTIA Security+** (In Progress)  
 
 ---
 
