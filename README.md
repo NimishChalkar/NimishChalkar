@@ -33,4 +33,4 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/nimish-c-020642128/) | [Portfolio]()
+[LinkedIn](https://www.linkedin.com/in/nimish-c-020642128/) | [Portfolio](https://github.com/NimishChalkar?tab=repositories)
