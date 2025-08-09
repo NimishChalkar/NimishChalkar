@@ -1,3 +1,5 @@
+![Cybersecurity Banner](extrawide_3x1.png)
+
 # Hi, I'm Nimish 👋
 **Cybersecurity Analyst | AI Enthusiast | Network Security Practitioner**
 
