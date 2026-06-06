@@ -20,7 +20,7 @@
 
 ## 📜 Certificates
 - [**Certified in Cybersecurity (CC) – ISC²**](https://www.credly.com/badges/28ac9728-81bd-4d59-bca9-686b4160a73b/)
-- **CompTIA Security+** (In Progress)  
+- [**CompTIA Security+**](https://www.credly.com/badges/75b8caf8-b8a7-4706-a1b3-44fec79ecc4f/)
 
 ---
 
